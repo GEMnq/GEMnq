@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 # 💫About Me :
-👋 Hi, I'm Minh Ngoc
-🌱 I’m currently a junior at Ton Duc Thang University
-📫 How to reach me huynhngocst2003@gmail.com
+-👋 Hi, I'm Minh Ngoc
+-🌱 I’m currently a junior at Ton Duc Thang University
+-📫 How to reach me huynhngocst2003@gmail.com
 
 
 
