@@ -1,7 +1,7 @@
 ![MasterHead](https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/2EP14mWkbx9sq03nWnRSGT/f1d22d88bb5dde030275f9520c0f2e92/React_YT_Thumbnail.png)
 <h1 align="center">Hi 👋, I'm Minh Ngoc</h1>
 <h3 align="center">Frontend developer from Vietnam</h3>
-<img align="right" alt="Coding" width='400' src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnrm7lfY26q8QaOEix4NZr-zD15fwOElNsTRB_BpIT5dnOrhjafzSFbs-Id2FaXz38HVU&usqp=CAU">
+
 <h3 align="left">About me:</h3>
 
 - 🌱 I’m currently **a junior at Ton Duc Thang University**
