@@ -1,12 +1,12 @@
 ![MasterHead](https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/2EP14mWkbx9sq03nWnRSGT/f1d22d88bb5dde030275f9520c0f2e92/React_YT_Thumbnail.png)
 <h1 align="center">Hi 👋, I'm Minh Ngoc</h1>
-<h3 align="center">Frontend developer from Vietnam</h3>
+<h3 align="center">Frontend developer</h3>
 
 <h3 align="left">About me:</h3>
 
 - 🌱 I’m currently **a junior at Ton Duc Thang University**
 
-- 📫 How to reach me **huynhngocst2003@gmail.com**
+- 📫 How to reach me **@gmail.com**
   
 - 💬 Ask me about **react**
 
