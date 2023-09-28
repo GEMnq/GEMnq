@@ -1,4 +1,3 @@
-//![MasterHead](https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/2EP14mWkbx9sq03nWnRSGT/f1d22d88bb5dde030275f9520c0f2e92/React_YT_Thumbnail.png)
 <h1 align="center">Hi 👋, I'm Minh Ngoc</h1>
 <h3 align="center">Frontend developer</h3>
 
